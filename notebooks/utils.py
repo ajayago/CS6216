@@ -10,6 +10,14 @@ from transformers import AutoTokenizer, AutoModel
 from transformers import pipeline
 from sklearn.metrics.pairwise import cosine_similarity
 
+semmed_db = pd.read_csv("/data/ajayago/KB_embeddings/dataset/polypharmacy/PREDICATIONS_OCCURS.csv", usecols=["SUBJECT_NAME", "OBJECT_NAME", "PREDICATE", "OCCURS"])
+semmed_db["SUBJECT_NAME"] = semmed_db["SUBJECT_NAME"].apply(lambda x: x.upper())
+semmed_db["OBJECT_NAME"] = semmed_db["OBJECT_NAME"].apply(lambda x: x.upper())
+G = nx.from_pandas_edgelist(semmed_db, source="SUBJECT_NAME", target="OBJECT_NAME", edge_attr="OCCURS", edge_key="PREDICATE")
+concepts = set(nx.nodes(G))
+clinicalBert_tokenizer = AutoTokenizer.from_pretrained("medicalai/ClinicalBERT")
+clinicalBert_model = AutoModel.from_pretrained("medicalai/ClinicalBERT")
+
 def get_model(model_name):
     if model_name == "GPT-3.5":
         print("You need to get the responses separately from https://chat.lmsys.org/ to avoid API timeout issues.")
@@ -51,7 +59,8 @@ def get_responses(model, prompt_type, dataset, num_questions = 20, max_new_token
                 "opa": dataset["opa"][i], 
                 "opb": dataset["opb"][i],
                 "opc": dataset["opc"][i], 
-                "opd": dataset["opd"][i]
+                "opd": dataset["opd"][i],
+                "cop": dataset["cop"][i],
             }
     elif prompt_type == "zero shot with cot":
         for i in range(num_questions):
@@ -73,7 +82,8 @@ def get_responses(model, prompt_type, dataset, num_questions = 20, max_new_token
                 "opa": dataset["opa"][i], 
                 "opb": dataset["opb"][i],
                 "opc": dataset["opc"][i], 
-                "opd": dataset["opd"][i]
+                "opd": dataset["opd"][i],
+                "cop": dataset["cop"][i]
             }
     elif prompt_type == "zero shot with template and cot":
         for i in range(num_questions):
@@ -100,7 +110,8 @@ def get_responses(model, prompt_type, dataset, num_questions = 20, max_new_token
                 "opa": dataset["opa"][i], 
                 "opb": dataset["opb"][i],
                 "opc": dataset["opc"][i], 
-                "opd": dataset["opd"][i]
+                "opd": dataset["opd"][i],
+                "cop":  dataset["cop"][i]
             }
     elif prompt_type == "1 shot with template and cot":
         for i in range(num_questions):
@@ -136,7 +147,8 @@ def get_responses(model, prompt_type, dataset, num_questions = 20, max_new_token
                 "opa": dataset["opa"][i], 
                 "opb": dataset["opb"][i],
                 "opc": dataset["opc"][i], 
-                "opd": dataset["opd"][i]
+                "opd": dataset["opd"][i],
+                "cop": dataset["cop"][i]
             }
     return QnA_dict
 
@@ -189,13 +201,13 @@ def evaluate_cot(QnA_dict, metric):
             cos_sim_values.append(cos_sim_matrix[i][i+len(generated_cots)])
         return np.array(cos_sim_values).mean()
     elif metric == "kgbased":
-        semmed_db = pd.read_csv("/data/ajayago/KB_embeddings/dataset/polypharmacy/PREDICATIONS_OCCURS.csv", usecols=["SUBJECT_NAME", "OBJECT_NAME", "PREDICATE", "OCCURS"])
-        semmed_db["SUBJECT_NAME"] = semmed_db["SUBJECT_NAME"].apply(lambda x: x.upper())
-        semmed_db["OBJECT_NAME"] = semmed_db["OBJECT_NAME"].apply(lambda x: x.upper())
-        G = nx.from_pandas_edgelist(semmed_db, source="SUBJECT_NAME", target="OBJECT_NAME", edge_attr="OCCURS", edge_key="PREDICATE")
-        concepts = set(nx.nodes(G))
-        clinicalBert_tokenizer = AutoTokenizer.from_pretrained("medicalai/ClinicalBERT")
-        clinicalBert_model = AutoModel.from_pretrained("medicalai/ClinicalBERT")
+        # semmed_db = pd.read_csv("/data/ajayago/KB_embeddings/dataset/polypharmacy/PREDICATIONS_OCCURS.csv", usecols=["SUBJECT_NAME", "OBJECT_NAME", "PREDICATE", "OCCURS"])
+        # semmed_db["SUBJECT_NAME"] = semmed_db["SUBJECT_NAME"].apply(lambda x: x.upper())
+        # semmed_db["OBJECT_NAME"] = semmed_db["OBJECT_NAME"].apply(lambda x: x.upper())
+        # G = nx.from_pandas_edgelist(semmed_db, source="SUBJECT_NAME", target="OBJECT_NAME", edge_attr="OCCURS", edge_key="PREDICATE")
+        # concepts = set(nx.nodes(G))
+        # clinicalBert_tokenizer = AutoTokenizer.from_pretrained("medicalai/ClinicalBERT")
+        # clinicalBert_model = AutoModel.from_pretrained("medicalai/ClinicalBERT")
         cos_sim_values = []
         for question in QnA_dict.keys():
             candidate_phrases = [] # in Q and options
@@ -207,6 +219,46 @@ def evaluate_cot(QnA_dict, metric):
 
             # add bi grams
             candidate_phrases.extend([" ".join(gram) for gram in find_ngrams(question.split(" "), 2)])
+
+            key_phrases = []
+            for candidate in candidate_phrases:
+                if candidate.upper() in concepts:
+                    key_phrases.append(candidate.upper())
+            paths = get_paths(key_phrases, G)
+
+            clinicalbert_path_embeddings = []
+            for path in paths:
+                # print(path)
+                inputs = clinicalBert_tokenizer(" ".join(path), return_tensors="pt")
+                outputs = clinicalBert_model(**inputs)
+                clinicalbert_path_embeddings.append(outputs.last_hidden_state.mean(dim=1))
+            # print(torch.cat(clinicalbert_path_embeddings, dim=0).shape)
+            # print(len(paths))
+            generated_cot = QnA_dict[question]["generated_cot"]
+            generated_cot_clinicalbert_embedding = clinicalBert_model(**clinicalBert_tokenizer(generated_cot, return_tensors="pt")).last_hidden_state.mean(dim=1)
+
+            similarity_cot_graph_paths = []
+            for i in clinicalbert_path_embeddings:
+                cosine_sim = (torch.nn.functional.cosine_similarity(generated_cot_clinicalbert_embedding, i))
+                similarity_cot_graph_paths.append(cosine_sim.item())
+            cos_sim_values.append(max(similarity_cot_graph_paths))
+        return np.array(cos_sim_values).mean()
+    elif metric == "kgbased_v2": # only extract key phrases from correct answer option and question
+        cos_sim_values = []
+        for question in QnA_dict.keys():
+            candidate_phrases = [] # in Q and options
+            candidate_phrases.extend(question.split(" "))
+            if QnA_dict[question]["cop"] == 0:
+                candidate_phrases.extend(QnA_dict[question]["opa"].split(" "))
+            elif QnA_dict[question]["cop"] == 1:
+                candidate_phrases.extend(QnA_dict[question]["opb"].split(" "))
+            elif QnA_dict[question]["cop"] == 2:
+                candidate_phrases.extend(QnA_dict[question]["opc"].split(" "))
+            elif QnA_dict[question]["cop"] == 3:
+                candidate_phrases.extend(QnA_dict[question]["opd"].split(" "))
+
+            # # add bi grams
+            # candidate_phrases.extend([" ".join(gram) for gram in find_ngrams(question.split(" "), 2)])
 
             key_phrases = []
             for candidate in candidate_phrases:
