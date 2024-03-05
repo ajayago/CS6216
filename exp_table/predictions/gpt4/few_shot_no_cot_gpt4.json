@@ -1,0 +1,82 @@
+{
+  "b944ada9-d776-4c2a-9180-3ae5f393f72d": {
+    "explanation (cot)": ["The statement 'The oncotic pressure of the fluid leaving the capillaries is less than that of fluid entering it' is not true about glomerular capillaries. Oncotic pressure increases as the blood moves through the glomerular capillaries due to the filtration of fluid into Bowman's space, concentrating the proteins that remain in the capillaries."],
+    "answer": [0]
+  },
+  "c6365cce-507c-40f6-90a2-46b867f47b6e": {
+    "explanation (cot)": ["Axonal transport is both antegrade and retrograde. Antegrade transport moves materials from the cell body towards the synapse, while retrograde transport moves materials from the synapse back to the cell body for recycling or signaling purposes."],
+    "answer": [2]
+  },
+  "72c1c5e0-b64f-4eef-bf22-ecfb60c5c19c": {
+    "explanation (cot)": ["A low insulin to glucagon ratio is seen in states that favor catabolism, such as glycogen breakdown, gluconeogenesis, and ketogenesis. Glycogen synthesis occurs when there is a higher insulin to glucagon ratio, which is indicative of a fed state or storage mode."],
+    "answer": [0]
+  },
+  "17360c6c-2c98-4fe2-aa85-487dcf4678df": {
+    "explanation (cot)": ["The correct concentration of tropicamide for ophthalmic use is 0.5% or 1%. The concentrations listed in the choices (0.01, 0.02, 0.03, 0.04) are not standard concentrations for the medication tropicamide."],
+    "answer": []
+  },
+  "62fa6f78-1964-4249-974b-6fcbbd7fc9ba": {
+    "explanation (cot)": ["Pregnant women with flu-like symptoms can be started immediately on antiviral medications such as oseltamivir without diagnostic testing if they are at high risk of complications. This is often referred to as 'Category A' in treatment guidelines. 'Category B' is for patients with milder illness who do not require hospitalization."],
+    "answer": [0]
+  },
+  "ce49098b-cc48-4168-859e-936e3e0c7459": {
+    "explanation (cot)": ["Kiesselbach's plexus, also known as Little's area, is a region in the anterior part of the nasal septum. It receives blood supply from several arteries, but the anterior ethmoidal artery is not a branch of the external carotid artery; it is a branch of the ophthalmic artery, which is a branch of the internal carotid artery."],
+    "answer": [1]
+  },
+  "18d5c4a1-cb81-41a8-9bfc-b6f7dec431d2": {
+    "explanation (cot)": ["An ECG diagnosis requires analysis of the rhythm, rate, and waveforms present on the electrocardiogram. The options listed represent different cardiac conditions that would present with specific ECG findings. Without the actual ECG trace, it is not possible to provide an accurate diagnosis."],
+    "answer": []
+  },
+  "de09d388-bd4e-42a9-ac6b-ee2d95f822e2": {
+    "explanation (cot)": ["Pulmonary atresia is a condition where the pulmonary valve is completely closed or absent, which impairs the blood's ability to flow from the right ventricle to the lungs for oxygenation. This condition would present with cyanosis and an X-ray showing decreased lung blood flow (oligemic lung fields) and a heart of normal size."],
+    "answer": [1]
+  },
+  "ae860b65-53a5-4547-b627-494174e15c3c": {
+    "explanation (cot)": ["When performing an arterial blood gas (ABG) test, the syringe should not be loaded with 0.3 cc of heparin as this might dilute the blood sample. Instead, a small amount of heparin is used just to coat the inside of the syringe to prevent clotting. All other statements are true regarding ABG sampling."],
+    "answer": [0]
+  },
+  "84d89a4f-db04-402d-88ab-ca39f6eee8bd": {
+    "explanation (cot)": ["The respiratory rhythm generation center is located at the Pre-Botzinger complex. This area is critical for the generation of the respiratory rhythm and is located in the ventrolateral medulla."],
+    "answer": [1]
+  },
+  "b1cc4ab0-a82c-437a-88c2-00953f3618ff": {
+    "explanation (cot)": ["Gait apraxia or difficulty in initiating the process of walking is a feature of frontal lobe disorders including those associated with thromboembolic episodes affecting the anterior cerebral artery (ACA). This artery supplies the medial portion of the frontal lobe, which includes areas responsible for motor planning of lower extremities."],
+    "answer": [0]
+  },
+  "6ccd8adb-af24-4e58-82a1-9219dfa37057": {
+    "explanation (cot)": ["The first step in managing a patient who has accidentally extubated themselves is to assess the patient. This includes ensuring they have a patent airway and are able to breathe spontaneously. Once assessed, if necessary, provide bag and mask ventilation to support breathing while preparing for potential reintubation, depending on the patient's condition and ability to maintain their own airway and oxygenation."],
+    "answer": [0]
+  },
+  "9078aaca-bbfd-41cd-ad69-03057fca84ba": {
+    "explanation (cot)": ["Venous blood flow in the lower limb typically exhibits a phasic pattern that correlates with respiration due to changes in intra-abdominal pressure. On duplex Doppler ultrasound, the normal venous blood flow is often described as nonphasic or continuous, especially when evaluating flow in the veins of the lower extremities."],
+    "answer": [3]
+  },
+  "7111d7b2-7e80-4e23-b5d0-9f42595c6a80": {
+    "explanation (cot)": ["2,3-BPG (2,3-Bisphosphoglycerate) binds to the beta subunits of hemoglobin and stabilizes the deoxy form of hemoglobin, which decreases its affinity for oxygen. This effect facilitates oxygen release to the tissues. The '4' in the answer choice likely refers to the fact that hemoglobin is a tetramer, consisting of two alpha and two beta subunits."],
+    "answer": [0]
+  },
+  "406b5b4f-9ad4-42c0-9669-12d038df4ac8": {
+    "explanation (cot)": ["The highest concentration of oxygen delivered to a patient is through a mask with a reservoir, often referred to as a non-rebreather mask. This mask allows for the delivery of high concentrations of oxygen and has a reservoir bag attached to it, which is filled with pure oxygen. The mask can deliver oxygen concentrations of 60% to 100% at high flow rates (up to 15 liters per minute)."],
+    "answer": [3]
+  },
+  "7f0270fd-7d45-43ec-b77e-0038115bb845": {
+    "explanation (cot)": ["The presence of HBeAg in a mother with hepatitis B is a marker of high viral replication and infectivity. The risk of transmission to the child is very high if the mother is HBeAg positive. Although the exact percentage can vary, the risk of transmission is certainly not zero and is often estimated to be around 90% without appropriate prophylactic intervention."],
+    "answer": [3]
+  },
+  "a3da135a-a6a2-4e1c-8823-8ab0913f5668": {
+    "explanation (cot)": ["The described symptoms suggest an overdose of an acetylcholinesterase inhibitor, leading to cholinergic crisis characterized by increased salivation, bronchial secretions, and low blood pressure. The appropriate treatment would be atropine, a muscarinic antagonist, which counteracts the effects of excessive acetylcholine at muscarinic receptors."],
+    "answer": [1]
+  },
+  "f0f91922-12fd-4213-871c-19e47532a6d6": {
+    "explanation (cot)": ["When comparing continuous data (like weights) between two independent groups (such as babies born to mothers who did or did not receive food supplements), the appropriate statistical test would be the Student's T-test. This test compares the means of two groups to determine if they are statistically different from each other."],
+    "answer": [2]
+  },
+  "3624dceb-9318-4aa7-add1-b4c2fbac3065": {
+    "explanation (cot)": ["Glycogen phosphorylase, the enzyme that breaks down glycogen to release glucose, requires pyridoxal phosphate (PLP) as a cofactor. PLP is the active form of vitamin B6."],
+    "answer": [0]
+  },
+  "e845e625-845e-4d02-ab3f-e00f2284d62e": {
+    "explanation (cot)": ["The cricoid cartilage is the only complete cartilaginous ring in the respiratory tract. It encircles the trachea just below the thyroid cartilage and above the tracheal rings."],
+    "answer": [0]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "b944ada9-d776-4c2a-9180-3ae5f393f72d": {
+    "explanation (cot)": ["Oncotic pressure is higher in the capillaries, not less. Refer Ganong 24/e, p 343"],
+    "answer": [0]
+  },
+  "c6365cce-507c-40f6-90a2-46b867f47b6e": {
+    "explanation (cot)": ["Anterograde axonal transport moves materials from the cell body to the axon terminal. Retrograde axonal transport moves materials from the axon terminal to the cell body. Refer Basic Pathology, 10/e. p. 54"],
+    "answer": [2]
+  },
+  "72c1c5e0-b64f-4eef-bf22-ecfb60c5c19c": {
+    "explanation (cot)": ["Insulin promotes glycogen synthesis, inhibits glycogen breakdown, decreases gluconeogenesis, and limits ketogenesis. Refer Basic Pathology, 10/e. p. 87"],
+    "answer": [1]
+  },
+  "17360c6c-2c98-4fe2-aa85-487dcf4678df": {
+    "explanation (cot)": ["Tropicamide concentration is typically 0.5%. Refer Comprehensive Ophthalmology, 4/e. p. 1020"],
+    "answer": [3]
+  },
+  "62fa6f78-1964-4249-974b-6fcbbd7fc9ba": {
+    "explanation (cot)": ["Category B for H1N1 influenza includes pregnant women with sore throat who can start oseltamivir without immediate testing. Refer Harrison's Principles of Internal Medicine, 20/e. p. 1970"],
+    "answer": [0]
+  },
+  "ce49098b-cc48-4168-859e-936e3e0c7459": {
+    "explanation (cot)": ["Kiesselbach's plexus receives blood supply from branches of the internal maxillary artery, not external carotid artery. Refer Netter's Head and Neck Anatomy for Dentistry, 2/e. p. 101"],
+    "answer": [0]
+  },
+  "18d5c4a1-cb81-41a8-9bfc-b6f7dec431d2": {
+    "explanation (cot)": ["Electrical alternans is a regular alternation of the QRS complex amplitude and morphology seen in conditions like pericardial effusion. Refer ECG Made Easy, 8/e. p. 84"],
+    "answer": [1]
+  },
+  "de09d388-bd4e-42a9-ac6b-ee2d95f822e2": {
+    "explanation (cot)": ["Oligemic lung fields and a normal-sized heart suggest pulmonary atresia, where there is no communication between the pulmonary trunk and the right ventricle. Refer Nelson Textbook of Pediatrics, 21/e. p. 2145"],
+    "answer": [1]
+  },
+  "ae860b65-53a5-4547-b627-494174e15c3c": {
+    "explanation (cot)": ["Before performing the ABG, syringe should be loaded with 0.3 cc of heparin. Normal pH, HCO3, and PCO2 levels may not indicate absence of an acid-base imbalance. A different site should be tried if modified Allen's test is negative. Radial artery is the preferred site."],
+    "answer": [1]
+  },
+  "84d89a4f-db04-402d-88ab-ca39f6eee8bd": {
+    "explanation (cot)": ["Respiratory rhythm generation center is located at Pre-Botzinger complex."],
+    "answer": [1]
+  },
+  "b1cc4ab0-a82c-437a-88c2-00953f3618ff": {
+    "explanation (cot)": ["Gait apraxia is seen in thromboembolic episode involving ACA."],
+    "answer": [0]
+  },
+  "6ccd8adb-af24-4e58-82a1-9219dfa37057": {
+    "explanation (cot)": ["If a patient who was on a ventilator suddenly pulls out the endotracheal tube, the next step of management is to assess the patient, give bag and mask ventilation, and look for spontaneous breathing."],
+    "answer": [0]
+  },
+  "9078aaca-bbfd-41cd-ad69-03057fca84ba": {
+    "explanation (cot)": ["The characteristic of venous blood flow of the lower limb in duplex Doppler is biphasic."],
+    "answer": [1]
+  },
+  "7111d7b2-7e80-4e23-b5d0-9f42595c6a80": {
+    "explanation (cot)": ["2,3-BPG binds to sites of hemoglobin and the affinity for oxygen: 1, decreases."],
+    "answer": [1]
+  },
+  "406b5b4f-9ad4-42c0-9669-12d038df4ac8": {
+    "explanation (cot)": ["The highest concentration of oxygen is delivered through a mask with a reservoir."],
+    "answer": [3]
+  },
+  "7f0270fd-7d45-43ec-b77e-0038115bb845": {
+    "explanation (cot)": ["A mother who is Hbs Ag positive and anti-Hbe Ag positive has a 0% risk of transmission of Hep. B in the child."],
+    "answer": [2]
+  },
+  "a3da135a-a6a2-4e1c-8823-8ab0913f5668": {
+    "explanation (cot)": ["In a patient with increased salivation, increased bronchial secretions, and hypotension, the treatment should be Atropine."],
+    "answer": [1]
+  },
+  "f0f91922-12fd-4213-871c-19e47532a6d6": {
+    "explanation (cot)": ["In a study comparing newborn weights based on maternal food supplements, the appropriate test to use is Student's T-test."],
+    "answer": [2]
+  },
+  "3624dceb-9318-4aa7-add1-b4c2fbac3065": {
+    "explanation (cot)": ["Vitamin B6 (PLP) is required for glycogen Phosphorylase."],
+    "answer": [0]
+  },
+  "e845e625-845e-4d02-ab3f-e00f2284d62e": {
+    "explanation (cot)": ["The only complete cartilage ring in the respiratory tree is the cricoid cartilage."],
+    "answer": [0]
+  }
+}

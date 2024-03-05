@@ -1,0 +1,82 @@
+{
+  "b944ada9-d776-4c2a-9180-3ae5f393f72d": {
+    "explanation (cot)": "The statement that 'Hematocrit of the fluid leaving the capillaries is less than that of the fluid entering it' is not true about glomerular capillaries. In glomerular capillaries, the hematocrit of the fluid leaving is higher than that of the fluid entering due to filtration of plasma without blood cells.",
+    "answer": "3"
+  },
+  "c6365cce-507c-40f6-90a2-46b867f47b6e": {
+    "explanation (cot)": "Axonal transport refers to the movement of organelles and proteins within a neuron. It can be both antegrade (from the cell body to the synapse) and retrograde (from the synapse back to the cell body).",
+    "answer": "2"
+  },
+  "72c1c5e0-b64f-4eef-bf22-ecfb60c5c19c": {
+    "explanation (cot)": "A low insulin to glucagon ratio typically promotes processes that increase blood glucose levels, such as glycogen breakdown, gluconeogenesis, and ketogenesis. Glycogen synthesis, on the other hand, is favored by a high insulin to glucagon ratio.",
+    "answer": "0"
+  },
+  "17360c6c-2c98-4fe2-aa85-487dcf4678df": {
+    "explanation (cot)": "The concentration of tropicamide for an ophthalmic solution is usually 0.5% or 1%. The choices provided (0.01, 0.02, 0.03, 0.04) do not correspond to typical concentrations for tropicamide.",
+    "answer": ""
+  },
+  "62fa6f78-1964-4249-974b-6fcbbd7fc9ba": {
+    "explanation (cot)": "Pregnant women with suspected or confirmed influenza, which is a Category B indication, can be started on antiviral treatment like oseltamivir without waiting for diagnostic testing because of the potential for severe disease in pregnant women.",
+    "answer": "0"
+  },
+  "ce49098b-cc48-4168-859e-936e3e0c7459": {
+    "explanation (cot)": "In Kiesselbach's plexus, the sphenopalatine artery is a branch of the maxillary artery, which is a branch of the external carotid artery. The anterior ethmoidal artery is not a branch of the external carotid artery; it is a branch of the ophthalmic artery, which comes from the internal carotid artery.",
+    "answer": "1"
+  },
+  "18d5c4a1-cb81-41a8-9bfc-b6f7dec431d2": {
+    "explanation (cot)": "Without seeing the ECG, it is impossible to diagnose the condition. The question requires the actual ECG trace to give a proper answer.",
+    "answer": ""
+  },
+  "de09d388-bd4e-42a9-ac6b-ee2d95f822e2": {
+    "explanation (cot)": "In a blue (cyanotic) newborn, oligaemic lung fields and a normal-sized heart suggest decreased pulmonary blood flow, which is consistent with pulmonary atresia, a congenital heart defect characterized by the underdevelopment or closure of the pulmonary valve.",
+    "answer": "1"
+  },
+  "ae860b65-53a5-4547-b627-494174e15c3c": {
+    "explanation (cot)": "When performing an arterial blood gas (ABG), a heparinized syringe is used to prevent clotting. However, it should be preloaded with a very small amount of heparin (typically less than 0.3 cc). Normal pH, HCO3, and PCO2 levels can indeed indicate the absence of an acid-base imbalance, and a negative modified Allen's test suggests compromised arterial blood flow to the hand, so a different site should be chosen. The radial artery is the preferred site for ABG sampling.",
+    "answer": "1"
+  },
+  "84d89a4f-db04-402d-88ab-ca39f6eee8bd": {
+    "explanation (cot)": "The respiratory rhythm generation center is located in the brainstem within the Pre-Botzinger complex, which is essential for the generation of normal breathing rhythm.",
+    "answer": "1"
+  },
+  "b1cc4ab0-a82c-437a-88c2-00953f3618ff": {
+    "explanation (cot)": "Gait apraxia, which is difficulty initiating walking despite intact motor and sensory systems, is typically associated with lesions involving the anterior cerebral artery (ACA), which supplies the medial portions of the frontal lobes, including areas responsible for motor planning of lower limbs.",
+    "answer": "0"
+  },
+  "6ccd8adb-af24-4e58-82a1-9219dfa37057": {
+    "explanation (cot)": "If a patient accidentally extubates themselves, the first step in management is to assess the patient, provide bag and mask ventilation if necessary, and look for spontaneous breathing. Reintubation may be considered based on the patient's condition and ability to maintain adequate ventilation and oxygenation.",
+    "answer": "0"
+  },
+  "9078aaca-bbfd-41cd-ad69-03057fca84ba": {
+    "explanation (cot)": "Venous blood flow in the lower limb is typically phasic, correlating with the cardiac cycle and respiratory variations. It may not be strictly monophasic, biphasic, or triphasic, but it is certainly not non-phasic.",
+    "answer": "3"
+  },
+  "7111d7b2-7e80-4e23-b5d0-9f42595c6a80": {
+    "explanation (cot)": "2, 3-Bisphosphoglycerate (2, 3-BPG) binds to hemoglobin and stabilizes it in the T state, which has lower affinity for oxygen, thus helping in the release of oxygen to the tissues.",
+    "answer": "0"
+  },
+  "406b5b4f-9ad4-42c0-9669-12d038df4ac8": {
+    "explanation (cot)": "The highest concentration of oxygen is delivered through a mask with a reservoir, often referred to as a non-rebreather mask, which can provide up to 90-100% oxygen.",
+    "answer": "3"
+  },
+  "7f0270fd-7d45-43ec-b77e-0038115bb845": {
+    "explanation (cot)": "A mother who is Hepatitis B surface antigen (HbsAg) positive and anti-Hepatitis B e antigen (HbeAg) positive has a high risk of transmitting Hepatitis B to her child, which can be up to 90% without intervention.",
+    "answer": "3"
+  },
+  "a3da135a-a6a2-4e1c-8823-8ab0913f5668": {
+    "explanation (cot)": "The symptoms described are indicative of cholinergic crisis, likely due to organophosphate poisoning, which causes an overaccumulation of acetylcholine. Atropine is used as an antidote to treat this condition as it is an anticholinergic drug.",
+    "answer": "1"
+  },
+  "f0f91922-12fd-4213-871c-19e47532a6d6": {
+    "explanation (cot)": "To compare the means of two independent groups, such as the weights of newborns based on different maternal diets, the Student's T-test is the appropriate statistical test.",
+    "answer": "2"
+  },
+  "3624dceb-9318-4aa7-add1-b4c2fbac3065": {
+    "explanation (cot)": "Glycogen phosphorylase requires pyridoxal phosphate (PLP), which is a derivative of vitamin B6, to function.",
+    "answer": "0"
+  },
+  "e845e625-845e-4d02-ab3f-e00f2284d62e": {
+    "explanation (cot)": "The cricoid cartilage is the only complete cartilage ring in the respiratory tract, encircling the trachea below the thyroid cartilage.",
+    "answer": "0"
+  }
+}

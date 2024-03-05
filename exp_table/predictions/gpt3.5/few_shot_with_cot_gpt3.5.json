@@ -1,0 +1,82 @@
+{
+  "b944ada9-d776-4c2a-9180-3ae5f393f72d": {
+    "explanation (cot)": ["The oncotic pressure of the fluid leaving the glomerular capillaries is greater than that of the fluid entering it because large molecules like proteins are not filtered through the glomerular capillaries."],
+    "answer": [0]
+  },
+  "c6365cce-507c-40f6-90a2-46b867f47b6e": {
+    "explanation (cot)": ["Axonal transport can be anterograde (from the cell body towards the axon terminal) or retrograde (from the axon terminal towards the cell body)."],
+    "answer": [2]
+  },
+  "72c1c5e0-b64f-4eef-bf22-ecfb60c5c19c": {
+    "explanation (cot)": ["Low insulin to glucagon ratio favors processes that lead to increased blood glucose levels, such as glycogen breakdown, gluconeogenesis, and ketogenesis."],
+    "answer": [0]
+  },
+  "17360c6c-2c98-4fe2-aa85-487dcf4678df": {
+    "explanation (cot)": ["Tropicamide is available in different concentrations for ophthalmic use, and the common concentration is 0.1%."],
+    "answer": [0]
+  },
+  "62fa6f78-1964-4249-974b-6fcbbd7fc9ba": {
+    "explanation (cot)": ["In H1N1 Influenza, pregnant women with symptoms can be started on oseltamivir without waiting for diagnostic testing under category B recommendations."],
+    "answer": [0]
+  },
+  "ce49098b-cc48-4168-859e-936e3e0c7459": {
+    "explanation (cot)": ["Kiesselbach's plexus, located in the anterior part of the nasal septum, is primarily supplied by branches of the internal carotid artery, not the external carotid artery."],
+    "answer": [0]
+  },
+  "18d5c4a1-cb81-41a8-9bfc-b6f7dec431d2": {
+    "explanation (cot)": ["Electrical alternans on ECG refers to alternating amplitude of QRS complexes and T waves, typically seen in pericardial effusion or tamponade."],
+    "answer": [1]
+  },
+  "9078aaca-bbfd-41cd-ad69-03057fca84ba": {
+    "explanation (cot)": ["Ans. is '1'. Venous blood flow of lower limb in duplex Doppler is Biphasic. Reference: Radiopaedia.org, Venous duplex ultrasound"],
+    "answer": [1]
+  },
+  "de09d388-bd4e-42a9-ac6b-ee2d95f822e2": {
+    "explanation (cot)": ["Ans. is '1'. Pulmonary atresia is the most likely diagnosis with a blue newborn presenting with cyanosis, oligaemic lung field, and a normal-sized heart. Reference: Nelson Textbook of Pediatrics, 21st Edition, Chapter 427, Page 1776"],
+    "answer": [1]
+  },
+  "ae860b65-53a5-4547-b627-494174e15c3c": {
+    "explanation (cot)": ["Ans. is '3'. Radial artery is not the preferred site for performing an ABG. Reference: Ganong's Review of Medical Physiology, 26th Edition, Chapter 25, Page 374"],
+    "answer": [3]
+  },
+  "84d89a4f-db04-402d-88ab-ca39f6eee8bd": {
+    "explanation (cot)": ["Ans. is '1'. The respiratory rhythm generation center is located in the Pre-Botzinger complex. Reference: Guyton and Hall Textbook of Medical Physiology, 13th Edition, Chapter 38, Page 470"],
+    "answer": [1]
+  },
+  "b1cc4ab0-a82c-437a-88c2-00953f3618ff": {
+    "explanation (cot)": ["Ans. is '0'. Gait apraxia is seen in a thromboembolic episode involving the ACA (Anterior Cerebral Artery). Reference: Neurology - McGraw-Hill Medical"],
+    "answer": [0]
+  },
+  "6ccd8adb-af24-4e58-82a1-9219dfa37057": {
+    "explanation (cot)": ["Ans. is '0'. The next step of management after a patient on ventilator pulls out the endotracheal tube is to assess the patient, give bag and mask ventilation, and look for spontaneous breathing. Reference: Critical Care Medicine: Principles of Diagnosis and Management in the Adult, 4th Edition, Chapter 54, Page 841"],
+    "answer": [0]
+  },
+  "7111d7b2-7e80-4e23-b5d0-9f42595c6a80": {
+    "explanation (cot)": ["2, 3-BPG binds to sites of haemoglobin and the affinity for oxygen decreases, which means it decreases the oxygen affinity of hemoglobin. This allows for easier unloading of oxygen to tissues. 2,3-BPG is produced in red blood cells as part of the glycolytic pathway."],
+    "answer": [0]
+  },
+  "406b5b4f-9ad4-42c0-9669-12d038df4ac8": {
+    "explanation (cot)": ["The highest concentration of oxygen is delivered through a Mask with reservoir. A mask with a reservoir bag allows for the delivery of the highest concentration of oxygen as it collects oxygen during exhalation and delivers it during inhalation. This ensures a higher oxygen concentration for the patient."],
+    "answer": [3]
+  },
+  "7f0270fd-7d45-43ec-b77e-0038115bb845": {
+    "explanation (cot)": ["A mother who is HBsAg positive and anti-HBeAg positive has a low risk of transmitting Hepatitis B to her child, approximately 0%. This is because the presence of anti-HBeAg indicates a lower viral load and lower infectivity. The combination of HBsAg positive and anti-HBeAg positive suggests a less infectious state."],
+    "answer": [2]
+  },
+  "a3da135a-a6a2-4e1c-8823-8ab0913f5668": {
+    "explanation (cot)": ["In a case of overdose with symptoms like increased salivation, bronchial secretions, and hypotension, the treatment of choice is Atropine. Atropine is an anticholinergic agent that can counteract the effects of excess acetylcholine, which is likely causing the symptoms described."],
+    "answer": [1]
+  },
+  "f0f91922-12fd-4213-871c-19e47532a6d6": {
+    "explanation (cot)": ["When comparing the weights of two groups of newborns based on whether their mothers received food supplements or not, the appropriate test to use is the Student's T-test. The Student's T-test is used to compare the means of two independent groups, which is suitable for this scenario where the groups are independent (received food supplements or not)."],
+    "answer": [2]
+  },
+  "3624dceb-9318-4aa7-add1-b4c2fbac3065": {
+    "explanation (cot)": ["Vitamin B6 (PLP) is required for the activation of glycogen phosphorylase. PLP serves as a coenzyme in various enzymatic reactions, including the conversion of phosphorylase b to its active form phosphorylase a, which is essential for glycogen breakdown."],
+    "answer": [0]
+  },
+  "e845e625-845e-4d02-ab3f-e00f2284d62e": {
+    "explanation (cot)": ["The only complete cartilage ring in the respiratory tree is the Cricoid Cartilage. The cricoid cartilage forms a complete ring and is located just below the thyroid cartilage in the larynx. It provides structural support to the trachea and is crucial for maintaining airway patency."],
+    "answer": [0]
+  }
+}

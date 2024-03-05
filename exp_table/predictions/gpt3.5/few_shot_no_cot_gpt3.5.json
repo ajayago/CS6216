@@ -1,0 +1,82 @@
+{
+  "b944ada9-d776-4c2a-9180-3ae5f393f72d": {
+    "explanation (cot)": ["The oncotic pressure of the fluid leaving the glomerular capillaries is greater than that of the fluid entering them. This is due to the filtration of plasma proteins at the glomerulus, leading to an increase in oncotic pressure as fluid moves through the capillaries. This helps in retaining proteins and larger molecules within the blood. Refer: Ganong’s Review of Medical Physiology, 25th Edition, page 440"],
+    "answer": [0]
+  },
+  "c6365cce-507c-40f6-90a2-46b867f47b6e": {
+    "explanation (cot)": ["Axonal transport is the process by which proteins, organelles, and other materials are transported along the axon of a neuron. It can occur in both anterograde (from the cell body towards the axon terminal) and retrograde (from the axon terminal towards the cell body) directions. This bidirectional transport is essential for maintaining neuronal function and communication. Reference: Alberts B, Johnson A, Lewis J, et al. Molecular Biology of the Cell. 4th edition. Section 20.3, Intracellular Membrane Traffic. 2002."],
+    "answer": [2]
+  },
+  "72c1c5e0-b64f-4eef-bf22-ecfb60c5c19c": {
+    "explanation (cot)": ["Low insulin to glucagon ratio is associated with increased catabolic processes such as glycogen breakdown, gluconeogenesis, and ketogenesis. Glycogen synthesis, on the other hand, is promoted by a high insulin to glucagon ratio. Therefore, glycogen synthesis is not seen in conditions of low insulin to glucagon ratio. Reference: Lehninger AL, Nelson DL, Cox MM. Lehninger Principles of Biochemistry. 7th edition. Section 17.2, Glucagon and Insulin Control Blood Glucose Levels. 2017."],
+    "answer": [0]
+  },
+  "17360c6c-2c98-4fe2-aa85-487dcf4678df": {
+    "explanation (cot)": ["Tropicamide is a mydriatic agent used in ophthalmic examinations to dilate the pupil for better visualization of the retina and other internal structures of the eye. The concentration of tropicamide commonly used is 0.5%. This concentration provides effective dilation while minimizing side effects. Reference: Brunton LL, Hilal-Dandan R, Knollmann BC. Goodman & Gilman's: The Pharmacological Basis of Therapeutics. 13th edition. Chapter 62, Drugs for Glaucoma. 2018."],
+    "answer": [3]
+  },
+  "62fa6f78-1964-4249-974b-6fcbbd7fc9ba": {
+    "explanation (cot)": ["In H1N1 Influenza, pregnant women with symptoms such as sore throat can be started immediately on oseltamivir without waiting for diagnostic testing under category B recommendations. People on long-term steroids can receive oseltamivir as there are no specific contraindications related to steroid use. Category B concerns low-risk cases where treatment can be initiated promptly without the need for immediate testing. Immediate testing is not mandatory for Category B patients but can be considered based on clinical judgment. Reference: Centers for Disease Control and Prevention (CDC) - H1N1 Flu. CDC.gov."],
+    "answer": [0]
+  },
+  "ce49098b-cc48-4168-859e-936e3e0c7459": {
+    "explanation (cot)": ["The branches of the external carotid artery that contribute to Kiesselbach's plexus include the sphenopalatine artery, anterior ethmoidal artery, and septal branch of the superior labial artery. The greater palatine artery is not a direct branch involved in Kiesselbach's plexus. Kiesselbach's plexus is an anastomotic network of vessels in the anterior nasal septum that is prone to epistaxis (nosebleeds) due to its rich vascular supply. Reference: Netter FH. Atlas of Human Anatomy. 7th edition. Plate 41, Arteries of the Nasal Cavity. 2018."],
+    "answer": [2]
+  },
+  "18d5c4a1-cb81-41a8-9bfc-b6f7dec431d2": {
+    "explanation (cot)": ["An ECG diagnosis requires analysis of the rhythm, rate, and waveforms present on the electrocardiogram. The options listed represent different cardiac conditions that would present with specific ECG findings. Without the actual ECG trace, it is not possible to provide an accurate diagnosis."],
+    "answer": []
+  },
+  "de09d388-bd4e-42a9-ac6b-ee2d95f822e2": {
+    "explanation (cot)": ["Pulmonary atresia is a condition where the pulmonary valve is completely closed or absent, which impairs the blood's ability to flow from the right ventricle to the lungs for oxygenation. This condition would present with cyanosis and an X-ray showing decreased lung blood flow (oligemic lung fields) and a heart of normal size."],
+    "answer": [1]
+  },
+  "ae860b65-53a5-4547-b627-494174e15c3c": {
+    "explanation (cot)": ["Ans. is 'c' i.e., A different site should be tried if modified Allen's test is negative Ref: Ganong 23rd edition, Page 582* Once the skin is prepared, a local anesthetic is used to numb the skin and subcutaneous tissue.* After the skin is anesthetized, a needle is inserted into the artery. The needle is connected to a syringe, and blood is withdrawn from the artery. The blood is then sent to the lab for testing.* Before performing an ABG, the syringe should be loaded with 0.3 cc of heparin, and the needle should be connected to a plastic extension tubing.* The usual sites for ABG are the radial or brachial arteries. If the modified Allen's test is negative, a different site should be tried.* The radial artery is the preferred site for arterial puncture due to its superficial location, collateral circulation, and relatively low incidence of complications."],
+    "answer": [2]
+  },
+  "84d89a4f-db04-402d-88ab-ca39f6eee8bd": {
+    "explanation (cot)": ["Ans. is 'b' i.e., Pre-Botzinger complex Ref: Ganong 23rd edition, Page 625* The respiratory rhythm generator is located in the medulla oblongata, specifically in the pre-Bötzinger complex.* The dorsal respiratory group is responsible for inspiration and is located bilaterally in the dorsomedial medulla.* The ventral respiratory neurons are located in the ventrolateral medulla and are involved in both inspiration and expiration.* The pneumotaxic center is located in the upper pons and helps regulate the duration and depth of breathing."],
+    "answer": [1]
+  },
+  "b1cc4ab0-a82c-437a-88c2-00953f3618ff": {
+    "explanation (cot)": ["Ans. is 'b' i.e., MCA Ref: Harrison's 19th edition, Page 2547* Gait apraxia is seen in thromboembolic episodes involving the middle cerebral artery (MCA).* The MCA supplies blood to a large part of the lateral surface of the brain, including areas involved in motor function.* ACA (anterior cerebral artery) and PCA (posterior cerebral artery) supply other areas of the brain and are not specifically associated with gait apraxia.* The posterior choroidal artery supplies regions of the choroid plexus and internal capsule, but is not typically associated with gait apraxia."],
+    "answer": [1]
+  },
+  "6ccd8adb-af24-4e58-82a1-9219dfa37057": {
+    "explanation (cot)": ["The first step in managing a patient who has accidentally extubated themselves is to assess the patient. This includes ensuring they have a patent airway and are able to breathe spontaneously. Once assessed, if necessary, provide bag and mask ventilation to support breathing while preparing for potential reintubation, depending on the patient's condition and ability to maintain their own airway and oxygenation."],
+    "answer": [0]
+  },
+  "9078aaca-bbfd-41cd-ad69-03057fca84ba": {
+    "explanation (cot)": ["Venous blood flow in the lower limb typically exhibits a phasic pattern that correlates with respiration due to changes in intra-abdominal pressure. On duplex Doppler ultrasound, the normal venous blood flow is often described as nonphasic or continuous, especially when evaluating flow in the veins of the lower extremities."],
+    "answer": [3]
+  },
+  "7111d7b2-7e80-4e23-b5d0-9f42595c6a80": {
+    "explanation (cot)": ["2,3-BPG (2,3-Bisphosphoglycerate) binds to the beta subunits of hemoglobin and stabilizes the deoxy form of hemoglobin, which decreases its affinity for oxygen. This effect facilitates oxygen release to the tissues. The '4' in the answer choice likely refers to the fact that hemoglobin is a tetramer, consisting of two alpha and two beta subunits."],
+    "answer": [0]
+  },
+  "406b5b4f-9ad4-42c0-9669-12d038df4ac8": {
+    "explanation (cot)": ["The highest concentration of oxygen delivered to a patient is through a mask with a reservoir, often referred to as a non-rebreather mask. This mask allows for the delivery of high concentrations of oxygen and has a reservoir bag attached to it, which is filled with pure oxygen. The mask can deliver oxygen concentrations of 60% to 100% at high flow rates (up to 15 liters per minute)."],
+    "answer": [3]
+  },
+  "7f0270fd-7d45-43ec-b77e-0038115bb845": {
+    "explanation (cot)": ["The presence of HBeAg in a mother with hepatitis B is a marker of high viral replication and infectivity. The risk of transmission to the child is very high if the mother is HBeAg positive. Although the exact percentage can vary, the risk of transmission is certainly not zero and is often estimated to be around 90% without appropriate prophylactic intervention."],
+    "answer": [3]
+  },
+  "a3da135a-a6a2-4e1c-8823-8ab0913f5668": {
+    "explanation (cot)": ["Ans. is 'b' i.e., Atropine Atropine is used to treat symptoms of low heart rate (bradycardia), reduce salivation and bronchial secretions, and dilate the pupils (mydriasis). It works by blocking the effects of acetylcholine, a neurotransmitter that is responsible for various bodily functions."],
+    "answer": [1]
+  },
+  "f0f91922-12fd-4213-871c-19e47532a6d6": {
+    "explanation (cot)": ["Ans. is 'c' i.e., Student's T-test The Student's t-test is appropriate for comparing the means of two groups, which is the case in the given scenario where two groups of newborns are checked for their weights based on whether their mothers received food supplements or not. The t-test helps determine if there is a statistically significant difference between the means of the two groups."],
+    "answer": [2]
+  },
+  "3624dceb-9318-4aa7-add1-b4c2fbac3065": {
+    "explanation (cot)": ["Ans. is 'a' i.e., PLP PLP (Pyridoxal phosphate), which is the active form of vitamin B6, is required for the activity of glycogen phosphorylase. Glycogen phosphorylase is an enzyme involved in glycogenolysis, the breakdown of glycogen into glucose for energy production."],
+    "answer": [0]
+  },
+  "e845e625-845e-4d02-ab3f-e00f2284d62e": {
+    "explanation (cot)": ["Ans. is 'a' i.e., Cricoid cartilage The cricoid cartilage is the only complete cartilage ring in the respiratory tree. It forms a complete ring around the trachea and plays a role in maintaining the patency of the airway."],
+    "answer": [0]
+  }
+}

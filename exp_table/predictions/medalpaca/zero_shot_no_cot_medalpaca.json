@@ -1,0 +1,82 @@
+{
+  "b944ada9-d776-4c2a-9180-3ae5f393f72d": {
+    "explanation (cot)": "Option B",
+    "answer": "1"
+  },
+  "c6365cce-507c-40f6-90a2-46b867f47b6e": {
+    "explanation (cot)": "Question: Axonal transport is: Option A: Antegrade Option B: Retrograde Option C: Antegrade and retrograde Option D: None Answer: Question: Axonal transport is: Option A: Antegrade Option B: Retrograde Option C: Antegrade and retrograde Option D: None Answer: Question: Axonal transport is: Option A: Antegrade Option B: Retrograde Option C: Ante",
+    "answer": ""
+  },
+  "72c1c5e0-b64f-4eef-bf22-ecfb60c5c19c": {
+    "explanation (cot)": "Option A: Glycogen synthesis Option B: Glycogen breakdown Option C: Gluconeogenesis Option D: Ketogenesis Answer: D",
+    "answer": "3"
+  },
+  "17360c6c-2c98-4fe2-aa85-487dcf4678df": {
+    "explanation (cot)": "Question: Concentration of phenylephrine: Option A: 10 Option B: 20 Option C: 30 Option D: 40 Answer: Question: Concentration of tropicamide: Option A: 0.01 Option B: 0.02 Option C: 0.03 Option D: 0.04 Answer: Question: Concentration of phenylephrine:",
+    "answer": ""
+  },
+  "62fa6f78-1964-4249-974b-6fcbbd7fc9ba": {
+    "explanation (cot)": "Option A",
+    "answer": "0"
+  },
+  "ce49098b-cc48-4168-859e-936e3e0c7459": {
+    "explanation (cot)": "Question: Which of the following are not a branch of external carotid Aery in Kiesselbach's plexus. Option A: Sphenopalatine aery Option B: Anterior ethmoidal aery Option C: Greater palatine aery Option D: Septal branch of superior labial aery Answer: Question: Which of the following are not a branch of external carotid Aery in Kiesselbach's plexus. Option A: Sphenopalatine",
+    "answer": ""
+  },
+  "18d5c4a1-cb81-41a8-9bfc-b6f7dec431d2": {
+    "explanation (cot)": "Question: Diagnosis of the following ECG- Option A: Ventricular bigeminy Option B: Electrical alternans Option C: P pulmonale Option D: Left ventricular failure Answer: Question: Diagnosis of the following ECG- Option A: Ventricular bigeminy Option B: Electrical alternans Option C: P pulmonale Option D: Left ventricular failure Answer: Question: Diagnosis of the following ECG",
+    "answer": ""
+  },
+  "de09d388-bd4e-42a9-ac6b-ee2d95f822e2": {
+    "explanation (cot)": "Question: A 10-day old infant presents with tachypnea and tachycardia. The chest X-ray shows cardiomegaly and the ECG shows sinus tachycardia. Most likely diagnosis is – Option A: Ebstein's anomaly Option B: Pulmonary atresia Option C: Transposition of great arteries Option D: Tetralogy of fallot Answer: Question: A 10-day old infant presents with tachypnea and tach ",
+    "answer": ""
+  },
+  "ae860b65-53a5-4547-b627-494174e15c3c": {
+    "explanation (cot)": "Option A",
+    "answer": "0"
+  },
+  "84d89a4f-db04-402d-88ab-ca39f6eee8bd": {
+    "explanation (cot)": "Question: Respiratory rhythm generation center is located at: Option A: Dorsal respiratory group Option B: Pre-Botzinger complex Option C: Ventral respiratory neurons Option D: Pneumotaxic center Answer: C",
+    "answer": "2"
+  },
+  "b1cc4ab0-a82c-437a-88c2-00953f3618ff": {
+    "explanation (cot)": "return self.get_question_answer('Gait apraxia is seen in thromboembolic episode involving:', options=['A', 'B', 'C', 'D'])",
+    "answer": ""
+  },
+  "6ccd8adb-af24-4e58-82a1-9219dfa37057": {
+    "explanation (cot)": "Option A",
+    "answer": "0"
+  },
+  "9078aaca-bbfd-41cd-ad69-03057fca84ba": {
+    "explanation (cot)": "Question: What is the characteristic of venous blood flow of lower limb in duplex Doppler? Option A: Monophasic Option B: Biphasic Option C: Triphasic Option D: Non phasic Answer: B",
+    "answer": "1"
+  },
+  "7111d7b2-7e80-4e23-b5d0-9f42595c6a80": {
+    "explanation (cot)": "self.assertEqual(expected_answer, answer)",
+    "answer": ""
+  },
+  "406b5b4f-9ad4-42c0-9669-12d038df4ac8": {
+    "explanation (cot)": "self.assertEqual(answer, 'B')",
+    "answer": ""
+  },
+  "7f0270fd-7d45-43ec-b77e-0038115bb845": {
+    "explanation (cot)": "self.assertEqual(expected_answer, answer)",
+    "answer": ""
+  },
+  "a3da135a-a6a2-4e1c-8823-8ab0913f5668": {
+    "explanation (cot)": "self.maxDiff = 1answers = ['B']",
+    "answer": ""
+  },
+  "f0f91922-12fd-4213-871c-19e47532a6d6": {
+    "explanation (cot)": "Option A",
+    "answer": "0"
+  },
+  "3624dceb-9318-4aa7-add1-b4c2fbac3065": {
+    "explanation (cot)": "self.max_score = 1 self.question = Question.from_text(question) self.answer_choices = [Choice.from_text(choice) for choice in answer_choices] self.answer_choices_text = ', '.join([choice.text for choice in self.answer_choices]) self.answer_choices_raw = answer_choices self.answer_choices_raw_text = ', '.join([choice.raw_text for choice in self.answer_choices])",
+    "answer": ""
+  },
+  "e845e625-845e-4d02-ab3f-e00f2284d62e": {
+    "explanation (cot)": "Option A",
+    "answer": "0"
+  }
+}

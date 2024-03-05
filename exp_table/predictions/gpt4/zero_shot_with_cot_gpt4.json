@@ -1,0 +1,170 @@
+{
+  "b944ada9-d776-4c2a-9180-3ae5f393f72d": {
+    "explanation (cot)": [
+      "Glomerular capillaries are specialized capillaries that filter blood to form urine.",
+      "The oncotic pressure typically increases as fluid leaves the capillaries due to the loss of water while proteins remain, thus the statement is incorrect.",
+      "Glucose concentration is indeed the same in the capillaries and the glomerular filtrate because glucose is freely filtered.",
+      "Constriction of the afferent arteriole does decrease blood flow to the glomerulus, which is a mechanism to reduce glomerular filtration rate.",
+      "Hematocrit refers to the proportion of blood volume that is occupied by red blood cells, and since red blood cells do not leave the capillaries during filtration, the hematocrit would remain the same, not less."
+    ],
+    "answer": "3"
+  },
+  "c6365cce-507c-40f6-90a2-46b867f47b6e": {
+    "explanation (cot)": [
+      "Axonal transport is the process of moving materials to and from the nerve cell body along the axon.",
+      "Antegrade transport refers to movement from the cell body down the axon to the synaptic terminals.",
+      "Retrograde transport refers to the movement from the synaptic terminals back to the cell body.",
+      "Axonal transport can occur in both directions to fulfill different cellular needs."
+    ],
+    "answer": "2"
+  },
+  "72c1c5e0-b64f-4eef-bf22-ecfb60c5c19c": {
+    "explanation (cot)": [
+      "Insulin to glucagon ratio is a key regulator of metabolic pathways.",
+      "A low insulin to glucagon ratio typically promotes glycogen breakdown, gluconeogenesis, and ketogenesis as these are catabolic processes that increase blood glucose levels.",
+      "Glycogen synthesis is an anabolic process that is promoted by a high insulin to glucagon ratio."
+    ],
+    "answer": "0"
+  },
+  "17360c6c-2c98-4fe2-aa85-487dcf4678df": {
+    "explanation (cot)": [
+      "Tropicamide is a mydriatic agent used to dilate the pupil.",
+      "It is available in different concentrations for ophthalmic use.",
+      "The concentration of a drug is chosen based on the intended use and the desired strength of action."
+    ],
+    "answer": "2"
+  },
+  "62fa6f78-1964-4249-974b-6fcbbd7fc9ba": {
+    "explanation (cot)": [
+      "Oseltamivir is an antiviral medication used to treat influenza, including H1N1.",
+      "Pregnant women are at higher risk for complications from influenza and may be treated presumptively with oseltamivir.",
+      "Long-term steroid use does not contraindicate the use of oseltamivir.",
+      "Category B in the context of influenza treatment refers to patients with moderate risk, not low risk, and they may not always require immediate testing."
+    ],
+    "answer": "0"
+  },
+  "ce49098b-cc48-4168-859e-936e3e0c7459": {
+    "explanation (cot)": [
+      "Kiesselbach's plexus, also known as Little's area, is a region in the anterior part of the nasal septum where several arteries anastomose.",
+      "The sphenopalatine artery is a branch of the maxillary artery, which is a terminal branch of the external carotid artery.",
+      "The anterior ethmoidal artery is a branch of the ophthalmic artery, not the external carotid artery.",
+      "The greater palatine artery and the septal branch of the superior labial artery are branches of the facial artery, which is a branch of the external carotid artery."
+    ],
+    "answer": "1"
+  },
+  "18d5c4a1-cb81-41a8-9bfc-b6f7dec431d2": {
+    "explanation (cot)": [
+      "Ventricular bigeminy is a cardiac arrhythmia characterized by alternating normal heartbeats and premature ventricular contractions.",
+      "Electrical alternans is a pattern on the ECG characterized by alternating amplitude of QRS complexes, often associated with pericardial effusion.",
+      "P pulmonale refers to an ECG finding indicative of right atrial enlargement, with tall peaked P waves.",
+      "Left ventricular failure can lead to various ECG changes, but there is no specific pattern that directly indicates left ventricular failure."
+    ],
+    "answer": "1"
+  },
+  "de09d388-bd4e-42a9-ac6b-ee2d95f822e2": {
+    "explanation (cot)": [
+      "Ebstein's anomaly is characterized by an abnormal right ventricle and atrialized right atrium, which may cause cyanosis but typically shows cardiomegaly on X-ray.",
+      "Pulmonary atresia results in no blood flow from the right ventricle to the lungs, leading to cyanosis and often an underdeveloped or small appearing pulmonary artery on X-ray.",
+      "Transposition of the great arteries leads to cyanosis due to the separate circulations but usually shows an 'egg on a string' sign on X-ray with a narrow mediastinum.",
+      "Tetralogy of Fallot includes pulmonary stenosis, which can cause cyanosis and typically shows a 'boot-shaped' heart due to right ventricular hypertrophy."
+    ],
+    "answer": "1"
+  },
+  "ae860b65-53a5-4547-b627-494174e15c3c": {
+    "explanation (cot)": [
+      "Arterial blood gas (ABG) analysis is a common procedure to assess gas exchange and acid-base balance.",
+      "Pre-filling the syringe with heparin prevents blood from clotting but using too much can dilute the sample and affect results; 0.3 cc of heparin may be excessive.",
+      "Normal pH, HCO3, and PCO2 levels can sometimes be found in patients with compensatory mechanisms for acid-base imbalances.",
+      "Modified Allen's test is used to assess collateral blood flow to the hand; a negative result indicates inadequate blood flow, suggesting an alternate site should be used.",
+      "The radial artery is preferred for ABG due to its accessibility and the presence of collateral circulation."
+    ],
+    "answer": "0"
+  },
+  "84d89a4f-db04-402d-88ab-ca39f6eee8bd": {
+    "explanation (cot)": [
+      "The respiratory rhythm generation center is responsible for the spontaneous generation of the respiratory rhythm.",
+      "The Pre-Botzinger complex is a cluster of neurons located in the brainstem that has been identified as a critical component of this respiratory rhythm generator.",
+      "Other structures like the dorsal and ventral respiratory groups play a role in modulating the rhythm but are not primarily responsible for its generation."
+    ],
+    "answer": "1"
+  },
+  "b1cc4ab0-a82c-437a-88c2-00953f3618ff": {
+    "explanation (cot)": [
+      "Gait apraxia, which is a disorder of gait initiation, is typically associated with cerebrovascular events.",
+      "The anterior cerebral artery (ACA) supplies the medial portions of the frontal lobes and parietal lobes, which include areas that control lower limb motor function.",
+      "A thromboembolic event in the ACA can therefore lead to gait disturbances."
+    ],
+    "answer": "0"
+  },
+  "6ccd8adb-af24-4e58-82a1-9219dfa37057": {
+    "explanation (cot)": [
+      "When a patient unexpectedly pulls out their endotracheal tube, immediate assessment is crucial to determine the patient's ability to breathe spontaneously and maintain airway patency.",
+      "The first step should be to assess the patient, provide bag and mask ventilation if necessary, and observe for spontaneous breathing.",
+      "Subsequent steps would depend on the assessment findings."
+    ],
+    "answer": "0"
+  },
+  "9078aaca-bbfd-41cd-ad69-03057fca84ba": {
+    "explanation (cot)": [
+      "Venous blood flow in the lower limb can be characterized using duplex Doppler ultrasound, which provides information on the flow pattern within veins.",
+      "In healthy individuals, the venous flow in the lower limbs is typically phasic, reacting to respiration and cardiac cycles.",
+      "In a duplex Doppler, the normal venous flow should be non-phasic because it does not exhibit the same sharp waveforms as arterial blood flow."
+    ],
+    "answer": "3"
+  },
+  "7111d7b2-7e80-4e23-b5d0-9f42595c6a80": {
+    "explanation (cot)": [
+      "2, 3-Bisphosphoglycerate (2, 3-BPG) binds to hemoglobin and stabilizes it in the T-state (tense state), which has a lower affinity for oxygen.",
+      "This effect facilitates the release of oxygen to tissues that need it, such as active muscles.",
+      "Therefore, the binding of 2, 3-BPG decreases hemoglobin's affinity for oxygen."
+    ],
+    "answer": "0"
+  },
+  "406b5b4f-9ad4-42c0-9669-12d038df4ac8": {
+    "explanation (cot)": [
+      "Various oxygen delivery systems provide different concentrations of oxygen to the patient.",
+      "A mask with a reservoir, often called a non-rebreather mask, can deliver the highest concentration of oxygen (up to 90-100%) because it has a reservoir that fills with pure oxygen, which the patient inhales with minimal dilution from room air."
+    ],
+    "answer": "3"
+  },
+  "7f0270fd-7d45-43ec-b77e-0038115bb845": {
+    "explanation (cot)": [
+      "The risk of vertical transmission of Hepatitis B from mother to child is highest when the mother has high levels of viral replication.",
+      "The presence of HBeAg (hepatitis B e antigen) is a marker of active replication of the virus.",
+      "HBsAg (hepatitis B surface antigen) positive and HBeAg positive mothers have a high risk of transmitting the infection to their offspring, which can be up to 90% without intervention."
+    ],
+    "answer": "3"
+  },
+  "a3da135a-a6a2-4e1c-8823-8ab0913f5668": {
+    "explanation (cot)": [
+      "The described symptoms of increased salivation and bronchial secretions, along with low blood pressure, suggest a cholinergic crisis, which is consistent with organophosphate poisoning.",
+      "The treatment for organophosphate poisoning involves the administration of atropine, a muscarinic antagonist, to counteract the effects of excessive acetylcholine due to inhibited acetylcholinesterase.",
+      "RBC esterase inhibition is indicative of organophosphate poisoning, which supports this diagnosis and treatment."
+    ],
+    "answer": "1"
+  },
+  "f0f91922-12fd-4213-871c-19e47532a6d6": {
+    "explanation (cot)": [
+      "The Student's T-test is used to compare the means of two groups to determine if they are statistically different from each other.",
+      "In this scenario, newborn weights based on the variable of maternal food supplementation fall under continuous data, which is suited for a T-test.",
+      "Other tests like the Chi-square test and Fischer's exact test are used for categorical data, while the paired T-test is used for comparing two related groups."
+    ],
+    "answer": "2"
+  },
+  "3624dceb-9318-4aa7-add1-b4c2fbac3065": {
+    "explanation (cot)": [
+      "Glycogen phosphorylase is an enzyme that catalyzes the rate-limiting step in glycogen breakdown (glycogenolysis).",
+      "Pyridoxal phosphate (PLP), which is the active form of vitamin B6, serves as a cofactor for glycogen phosphorylase.",
+      "This enzyme requires PLP to stabilize the glucose residues during the cleavage, which releases glucose-1-phosphate from glycogen."
+    ],
+    "answer": "0"
+  },
+  "e845e625-845e-4d02-ab3f-e00f2284d62e": {
+    "explanation (cot)": [
+      "The respiratory tree comprises various cartilages that provide structure and support.",
+      "The cricoid cartilage, located below the thyroid cartilage, is the only complete ring of cartilage around the trachea.",
+      "This structure provides a full ring of support, which is necessary to maintain the airway's patency."
+    ],
+    "answer": "0"
+  }
+}

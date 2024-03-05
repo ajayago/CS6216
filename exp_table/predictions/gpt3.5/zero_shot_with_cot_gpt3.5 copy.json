@@ -1,0 +1,82 @@
+{
+  "b944ada9-d776-4c2a-9180-3ae5f393f72d": {
+    "explanation (cot)": "First, let's understand the normal oncotic pressure gradient within the glomerular capillaries. The oncotic pressure of the fluid entering the capillaries is higher than that of the fluid leaving it due to the presence of proteins like albumin. Therefore, choice 0 is correct as it states the opposite. The other choices do not provide accurate information about the glomerular capillaries.",
+    "answer": "0"
+  },
+  "c6365cce-507c-40f6-90a2-46b867f47b6e": {
+    "explanation (cot)": "Axonal transport can occur in two directions: antegrade and retrograde. Therefore, choice 2 is correct as it encompasses both directions. Choices 0 and 1 only represent one direction each, and choice 3 states 'None,' which is not accurate.",
+    "answer": "2"
+  },
+  "72c1c5e0-b64f-4eef-bf22-ecfb60c5c19c": {
+    "explanation (cot)": "A low insulin to glucagon ratio favors catabolic processes like glycogen breakdown, gluconeogenesis, and ketogenesis. Among the choices, only option 0, 'Glycogen synthesis,' represents an anabolic process that is not favored in a low insulin to glucagon ratio scenario.",
+    "answer": "0"
+  },
+  "17360c6c-2c98-4fe2-aa85-487dcf4678df": {
+    "explanation (cot)": "The concentration of tropicamide used in clinical practice is usually 0.5%. None of the provided choices match this standard concentration, indicating that all options are incorrect in the context of tropicamide concentration.",
+    "answer": ""
+  },
+  "62fa6f78-1964-4249-974b-6fcbbd7fc9ba": {
+    "explanation (cot)": "Category B for H1N1 Influenza involves patients with conditions that put them at higher risk for complications. None of the statements provided accurately reflect the criteria or actions related to Category B patients, making all options incorrect.",
+    "answer": ""
+  },
+  "ce49098b-cc48-4168-859e-936e3e0c7459": {
+    "explanation (cot)": "Kiesselbach's plexus is an anastomotic network of arteries in the nasal septum. None of the arteries listed in the choices are branches of the external carotid artery, making all options incorrect regarding their association with Kiesselbach's plexus.",
+    "answer": ""
+  },
+  "18d5c4a1-cb81-41a8-9bfc-b6f7dec431d2": {
+    "explanation (cot)": "Electrical alternans is a feature seen on an ECG where there is a variation in the QRS complex amplitude or axis between beats. Among the provided options, only 'P pulmonale,' 'Left ventricular failure,' and 'Ventricular bigeminy' do not describe electrical alternans, making them incorrect.",
+    "answer": "1"
+  },
+  "de09d388-bd4e-42a9-ac6b-ee2d95f822e2": {
+    "explanation (cot)": "The clinical presentation described suggests a condition where there is reduced pulmonary blood flow (oligemia) without an increase in the size of the heart. This is characteristic of Pulmonary Atresia, making it the most likely diagnosis among the options provided.",
+    "answer": "1"
+  },
+  "ae860b65-53a5-4547-b627-494174e15c3c": {
+    "explanation (cot)": "Performing an arterial blood gas (ABG) requires specific steps to ensure accurate results. Among the choices, option 1 is incorrect as normal pH, HCO3-, and PCO2 levels can indicate the absence of an acid-base imbalance. Therefore, option 1 is not true about performing an ABG.",
+    "answer": "1"
+  },
+  "84d89a4f-db04-402d-88ab-ca39f6eee8bd": {
+    "explanation (cot)": "The respiratory rhythm generation center is primarily located in the medulla oblongata of the brainstem. Specifically, the Dorsal Respiratory Group (DRG) and the Ventral Respiratory Group (VRG) are essential components involved in respiratory control. Therefore, among the provided options, 'Pneumotaxic center' is not the location of the respiratory rhythm generation center.",
+    "answer": "3"
+  },
+  "b1cc4ab0-a82c-437a-88c2-00953f3618ff": {
+    "explanation (cot)": "Gait apraxia is seen in thromboembolic episodes involving the anterior cerebral artery (ACA). Damage to the ACA can result in gait apraxia due to disruption of motor planning and coordination.",
+    "answer": "0"
+  },
+  "6ccd8adb-af24-4e58-82a1-9219dfa37057": {
+    "explanation (cot)": "When a patient on a ventilator pulls out the endotracheal tube, the next step is to assess the patient's respiratory status, provide bag and mask ventilation to support breathing, and observe for spontaneous breathing. Reintubation may be necessary if bag and mask ventilation are not sufficient.",
+    "answer": "0"
+  },
+  "9078aaca-bbfd-41cd-ad69-03057fca84ba": {
+    "explanation (cot)": "Characteristic of venous blood flow of the lower limb in duplex Doppler is typically biphasic, showing two distinct flow velocities during the cardiac cycle. This pattern is commonly observed in normal venous flow.",
+    "answer": "1"
+  },
+  "7111d7b2-7e80-4e23-b5d0-9f42595c6a80": {
+    "explanation (cot)": "2,3-BPG binds to sites on hemoglobin and decreases the affinity of hemoglobin for oxygen. This mechanism helps facilitate oxygen unloading in tissues where oxygen demand is high.",
+    "answer": "0"
+  },
+  "406b5b4f-9ad4-42c0-9669-12d038df4ac8": {
+    "explanation (cot)": "The highest concentration of oxygen is delivered through a mask with a reservoir, also known as a non-rebreather mask. This mask allows for the highest oxygen flow rates and concentrations compared to other delivery devices.",
+    "answer": "3"
+  },
+  "7f0270fd-7d45-43ec-b77e-0038115bb845": {
+    "explanation (cot)": "In a mother who is HBsAg positive and HBeAg negative, the risk of transmitting Hepatitis B to her child is approximately 0%. The absence of HBeAg reduces the risk of vertical transmission.",
+    "answer": "2"
+  },
+  "a3da135a-a6a2-4e1c-8823-8ab0913f5668": {
+    "explanation (cot)": "In a patient presenting with symptoms of cholinergic toxicity, such as increased salivation and bronchial secretions, along with hypotension, the treatment of choice is atropine. Atropine acts as a competitive antagonist to acetylcholine at muscarinic receptors, counteracting the effects of excess acetylcholine.",
+    "answer": "1"
+  },
+  "f0f91922-12fd-4213-871c-19e47532a6d6": {
+    "explanation (cot)": "When comparing the weights of newborns based on whether their mothers received food supplements or not, the appropriate statistical test to use is the Student's t-test. This test is commonly used to compare the means of two independent groups.",
+    "answer": "2"
+  },
+  "3624dceb-9318-4aa7-add1-b4c2fbac3065": {
+    "explanation (cot)": "The vitamin required for the activation of glycogen phosphorylase is pyridoxal phosphate (PLP). PLP serves as a coenzyme in the conversion of glycogen to glucose-1-phosphate, a key step in glycogenolysis.",
+    "answer": "0"
+  },
+  "e845e625-845e-4d02-ab3f-e00f2284d62e": {
+    "explanation (cot)": "The only complete cartilage ring in the respiratory tree is the cricoid cartilage. The cricoid cartilage forms a complete ring at the level of the trachea, providing structural support and maintaining airway patency.",
+    "answer": "0"
+  }
+}
